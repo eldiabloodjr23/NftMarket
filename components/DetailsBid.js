@@ -37,7 +37,7 @@ const DetailsBid = ({ bid }) => {
             color: COLORS.primary,
           }}
         >
-          Přihozeno uživatelem{bid.name}
+          Bid placed by {bid.name}
         </Text>
         <Text
           style={{

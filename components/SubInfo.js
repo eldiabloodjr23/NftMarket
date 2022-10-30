@@ -97,7 +97,7 @@ export const EndDate = () => {
           color: COLORS.primary,
         }}
       >
-        Končí za
+        Finish in 
       </Text>
       <Text
         style={{
