@@ -48,7 +48,7 @@ export const RectButton = ({ minWidth, fontSize, handlePress, ...props }) => {
           textAlign: "center",
         }}
       >
-        Přihodit do aukce
+        Place a bid 
       </Text>
     </TouchableOpacity>
   );

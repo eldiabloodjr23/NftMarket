@@ -63,7 +63,7 @@ const HomeHeader = ({ onSearch }) => {
             marginTop: SIZES.base / 2,
           }}
         >
-          Pojdmě spolu najít umělecké dílo
+          Lets find Masterpiece 
         </Text>
       </View>
 
